@@ -3,13 +3,9 @@
 [Pincha aqui para acceder al link de este repositorio](https://github.com/pelahumi/Kleopatra.git)
 
 ## Pasos seguidos
-Lo primero que hemos hecho ha sido instalarnos las dependencias:
+Lo primero que hemos hecho ha sido instalarnos las dependencias. Después, cada uno se creó su usuario y contraseña para encriptar, firmar y desencriptar. Las exportamos y compartimos ese archivo .asc por email. Una vez que nos descargamos las claves encriptadas del otro, las importamos cada uno en nuestro dispositivo. Así podemos ver si las tenemos imoprtadas correctamente en nuestro llavero:
 
-
-
-Después, cada uno se creó su usuario y contraseña para encriptar, firmar y desencriptar. Las exportamos y compartimos ese archivo .asc por email. Una vez que nos descargamos las claves encriptadas del otro, las importamos cada uno en nuestro dispositivo. Así podemos ver si las tenemos imoprtadas correctamente en nuestro llavero:
-
-
+[!Foto 1](https://github.com/pelahumi/Kleopatra/blob/main/imgMoyis/Kleopatra1.PNG)
 
 Creamos el fichero con el mensaje que queremos encriptar y compartir:
 
