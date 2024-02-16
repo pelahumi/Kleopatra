@@ -5,7 +5,7 @@
 ## Pasos seguidos
 Lo primero que hemos hecho ha sido instalarnos las dependencias. Después, cada uno se creó su usuario y contraseña para encriptar, firmar y desencriptar. Las exportamos y compartimos ese archivo .asc por email:
 
-
+<img width="479" alt="Kleopatra1" src="https://github.com/pelahumi/Kleopatra/assets/91721764/3ba390c2-ceef-40ea-a1ea-1805fffadead">
 
 Una vez que nos descargamos las claves encriptadas del otro, las importamos cada uno en nuestro dispositivo. Así podemos ver si las tenemos imoprtadas correctamente en nuestro llavero:
 
